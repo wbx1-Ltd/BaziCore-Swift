@@ -1,0 +1,602 @@
+[
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "癸卯",
+      "hour": "癸亥",
+      "month": "丁丑",
+      "year": "甲辰"
+    },
+    "id": "term-立春-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 3,
+      "hour": 22,
+      "minute": 5,
+      "month": 2,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 立春"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "癸卯",
+      "hour": "癸亥",
+      "month": "戊寅",
+      "year": "乙巳"
+    },
+    "id": "term-立春-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 3,
+      "hour": 22,
+      "minute": 15,
+      "month": 2,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 立春"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "癸酉",
+      "hour": "庚申",
+      "month": "戊寅",
+      "year": "乙巳"
+    },
+    "id": "term-惊蛰-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 5,
+      "hour": 16,
+      "minute": 2,
+      "month": 3,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 惊蛰"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "癸酉",
+      "hour": "庚申",
+      "month": "己卯",
+      "year": "乙巳"
+    },
+    "id": "term-惊蛰-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 5,
+      "hour": 16,
+      "minute": 12,
+      "month": 3,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 惊蛰"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "癸卯",
+      "hour": "壬戌",
+      "month": "己卯",
+      "year": "乙巳"
+    },
+    "id": "term-清明-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 4,
+      "hour": 20,
+      "minute": 43,
+      "month": 4,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 清明"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "癸卯",
+      "hour": "壬戌",
+      "month": "庚辰",
+      "year": "乙巳"
+    },
+    "id": "term-清明-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 4,
+      "hour": 20,
+      "minute": 53,
+      "month": 4,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 清明"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "甲戌",
+      "hour": "辛未",
+      "month": "庚辰",
+      "year": "乙巳"
+    },
+    "id": "term-立夏-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 5,
+      "hour": 13,
+      "minute": 52,
+      "month": 5,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 立夏"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "甲戌",
+      "hour": "辛未",
+      "month": "辛巳",
+      "year": "乙巳"
+    },
+    "id": "term-立夏-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 5,
+      "hour": 14,
+      "minute": 2,
+      "month": 5,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 立夏"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "乙巳",
+      "hour": "乙酉",
+      "month": "辛巳",
+      "year": "乙巳"
+    },
+    "id": "term-芒种-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 5,
+      "hour": 17,
+      "minute": 51,
+      "month": 6,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 芒种"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "乙巳",
+      "hour": "乙酉",
+      "month": "壬午",
+      "year": "乙巳"
+    },
+    "id": "term-芒种-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 5,
+      "hour": 18,
+      "minute": 1,
+      "month": 6,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 芒种"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "丁丑",
+      "hour": "壬寅",
+      "month": "壬午",
+      "year": "乙巳"
+    },
+    "id": "term-小暑-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 7,
+      "hour": 3,
+      "minute": 59,
+      "month": 7,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 小暑"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "丁丑",
+      "hour": "壬寅",
+      "month": "癸未",
+      "year": "乙巳"
+    },
+    "id": "term-小暑-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 7,
+      "hour": 4,
+      "minute": 9,
+      "month": 7,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 小暑"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "戊申",
+      "hour": "己未",
+      "month": "癸未",
+      "year": "乙巳"
+    },
+    "id": "term-立秋-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 7,
+      "hour": 13,
+      "minute": 46,
+      "month": 8,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 立秋"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "戊申",
+      "hour": "己未",
+      "month": "甲申",
+      "year": "乙巳"
+    },
+    "id": "term-立秋-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 7,
+      "hour": 13,
+      "minute": 56,
+      "month": 8,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 立秋"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "己卯",
+      "hour": "壬申",
+      "month": "甲申",
+      "year": "乙巳"
+    },
+    "id": "term-白露-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 7,
+      "hour": 16,
+      "minute": 46,
+      "month": 9,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 白露"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "己卯",
+      "hour": "壬申",
+      "month": "乙酉",
+      "year": "乙巳"
+    },
+    "id": "term-白露-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 7,
+      "hour": 16,
+      "minute": 56,
+      "month": 9,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 白露"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "庚戌",
+      "hour": "庚辰",
+      "month": "乙酉",
+      "year": "乙巳"
+    },
+    "id": "term-寒露-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 8,
+      "hour": 8,
+      "minute": 36,
+      "month": 10,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 寒露"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "庚戌",
+      "hour": "庚辰",
+      "month": "丙戌",
+      "year": "乙巳"
+    },
+    "id": "term-寒露-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 8,
+      "hour": 8,
+      "minute": 46,
+      "month": 10,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 寒露"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "庚辰",
+      "hour": "壬午",
+      "month": "丙戌",
+      "year": "乙巳"
+    },
+    "id": "term-立冬-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 7,
+      "hour": 11,
+      "minute": 59,
+      "month": 11,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 立冬"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "庚辰",
+      "hour": "壬午",
+      "month": "丁亥",
+      "year": "乙巳"
+    },
+    "id": "term-立冬-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 7,
+      "hour": 12,
+      "minute": 9,
+      "month": 11,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 立冬"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "庚戌",
+      "hour": "戊寅",
+      "month": "丁亥",
+      "year": "乙巳"
+    },
+    "id": "term-大雪-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 7,
+      "hour": 4,
+      "minute": 59,
+      "month": 12,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "-5 min around exact 大雪"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "庚戌",
+      "hour": "己卯",
+      "month": "戊子",
+      "year": "乙巳"
+    },
+    "id": "term-大雪-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 7,
+      "hour": 5,
+      "minute": 9,
+      "month": 12,
+      "timeZone": "Asia/Shanghai",
+      "year": 2025
+    },
+    "notes": [
+      "+5 min around exact 大雪"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "己卯",
+      "hour": "壬申",
+      "month": "戊子",
+      "year": "乙巳"
+    },
+    "id": "term-小寒-before",
+    "input": {
+      "calendar": "gregorian",
+      "day": 5,
+      "hour": 16,
+      "minute": 18,
+      "month": 1,
+      "timeZone": "Asia/Shanghai",
+      "year": 2026
+    },
+    "notes": [
+      "-5 min around exact 小寒"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "己卯",
+      "hour": "壬申",
+      "month": "己丑",
+      "year": "乙巳"
+    },
+    "id": "term-小寒-after",
+    "input": {
+      "calendar": "gregorian",
+      "day": 5,
+      "hour": 16,
+      "minute": 28,
+      "month": 1,
+      "timeZone": "Asia/Shanghai",
+      "year": 2026
+    },
+    "notes": [
+      "+5 min around exact 小寒"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  }
+]

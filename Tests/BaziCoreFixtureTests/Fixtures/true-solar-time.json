@@ -1,0 +1,89 @@
+[
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "丁丑",
+      "hour": "丁未",
+      "month": "壬午",
+      "year": "乙亥"
+    },
+    "id": "tst-urumqi-standard-clock",
+    "input": {
+      "calendar": "gregorian",
+      "day": 15,
+      "hour": 14,
+      "latitude": 43.8,
+      "longitude": 87.6,
+      "minute": 0,
+      "month": 6,
+      "timeZone": "Asia/Shanghai",
+      "year": 1995
+    },
+    "notes": [
+      "Ürümqi on Beijing time; civil clock 14:00 is the 未 hour"
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "丁丑",
+      "hour": "丙午",
+      "month": "壬午",
+      "year": "乙亥"
+    },
+    "id": "tst-urumqi-local-mean-solar-time",
+    "input": {
+      "calendar": "gregorian",
+      "day": 15,
+      "hour": 14,
+      "latitude": 43.8,
+      "longitude": 87.6,
+      "minute": 0,
+      "month": 6,
+      "timeZone": "Asia/Shanghai",
+      "year": 1995
+    },
+    "notes": [
+      "~32.4° west of the 120°E meridian shifts the clock back ~2h10m"
+    ],
+    "ruleSet": {
+      "timeCorrection": "localMeanSolarTime"
+    },
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "canonical",
+    "expected": {
+      "day": "丁丑",
+      "hour": "丙午",
+      "month": "壬午",
+      "year": "乙亥"
+    },
+    "id": "tst-urumqi-true-solar-time",
+    "input": {
+      "calendar": "gregorian",
+      "day": 15,
+      "hour": 14,
+      "latitude": 43.8,
+      "longitude": 87.6,
+      "minute": 0,
+      "month": 6,
+      "timeZone": "Asia/Shanghai",
+      "year": 1995
+    },
+    "notes": [
+      "longitude correction plus equation of time"
+    ],
+    "ruleSet": {
+      "timeCorrection": "trueSolarTime"
+    },
+    "sources": [
+      "bazicore"
+    ]
+  }
+]

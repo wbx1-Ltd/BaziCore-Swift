@@ -1,0 +1,252 @@
+[
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "丁丑",
+      "hour" : "甲辰",
+      "month" : "壬午",
+      "year" : "乙亥"
+    },
+    "id" : "basic-1995-summer",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 15,
+      "hour" : 8,
+      "minute" : 30,
+      "month" : 6,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 1995
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "甲子",
+      "hour" : "庚午",
+      "month" : "丁丑",
+      "year" : "己卯"
+    },
+    "id" : "basic-2000-reference-day",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 7,
+      "hour" : 12,
+      "minute" : 0,
+      "month" : 1,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2000
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "庚辰",
+      "hour" : "戊寅",
+      "month" : "己酉",
+      "year" : "丁巳"
+    },
+    "id" : "basic-1977-autumn",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 20,
+      "hour" : 3,
+      "minute" : 15,
+      "month" : 9,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 1977
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "庚辰",
+      "hour" : "丙戌",
+      "month" : "庚申",
+      "year" : "戊子"
+    },
+    "id" : "basic-2008-olympics",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 8,
+      "hour" : 20,
+      "minute" : 8,
+      "month" : 8,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2008
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "庚戌",
+      "hour" : "壬午",
+      "month" : "庚午",
+      "year" : "甲辰"
+    },
+    "id" : "basic-2024-midyear",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 15,
+      "hour" : 12,
+      "minute" : 0,
+      "month" : 6,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2024
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "壬子",
+      "hour" : "丙午",
+      "month" : "甲子",
+      "year" : "癸卯"
+    },
+    "id" : "basic-2023-zi-month",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 20,
+      "hour" : 12,
+      "minute" : 0,
+      "month" : 12,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2023
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "癸巳",
+      "hour" : "乙卯",
+      "month" : "丙子",
+      "year" : "甲子"
+    },
+    "id" : "basic-1984-winter",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 25,
+      "hour" : 6,
+      "minute" : 0,
+      "month" : 12,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 1984
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "壬申",
+      "hour" : "丁未",
+      "month" : "辛卯",
+      "year" : "辛巳"
+    },
+    "id" : "basic-2001-spring",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 10,
+      "hour" : 14,
+      "minute" : 45,
+      "month" : 3,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2001
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "甲戌",
+      "hour" : "己巳",
+      "month" : "己亥",
+      "year" : "丙午"
+    },
+    "id" : "basic-1966-autumn",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 11,
+      "hour" : 9,
+      "minute" : 9,
+      "month" : 11,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 1966
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "壬寅",
+      "hour" : "戊申",
+      "month" : "庚午",
+      "year" : "己亥"
+    },
+    "id" : "basic-2019-summer",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 4,
+      "hour" : 16,
+      "minute" : 30,
+      "month" : 7,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2019
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore"
+    ]
+  }
+]

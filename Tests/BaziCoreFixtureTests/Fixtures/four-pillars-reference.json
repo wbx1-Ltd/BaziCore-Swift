@@ -1,0 +1,1127 @@
+[
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丁未",
+      "hour": "辛丑",
+      "month": "丁丑",
+      "year": "己丑"
+    },
+    "id": "ref-1950-0112-0100",
+    "input": {
+      "calendar": "gregorian",
+      "day": 12,
+      "hour": 1,
+      "minute": 0,
+      "month": 1,
+      "timeZone": "Asia/Shanghai",
+      "year": 1950
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "己未",
+      "hour": "丁卯",
+      "month": "癸卯",
+      "year": "壬辰"
+    },
+    "id": "ref-1952-0314-0530",
+    "input": {
+      "calendar": "gregorian",
+      "day": 14,
+      "hour": 5,
+      "minute": 30,
+      "month": 3,
+      "timeZone": "Asia/Shanghai",
+      "year": 1952
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "辛丑",
+      "hour": "壬辰",
+      "month": "戊辰",
+      "year": "甲午"
+    },
+    "id": "ref-1954-0415-0800",
+    "input": {
+      "calendar": "gregorian",
+      "day": 15,
+      "hour": 8,
+      "minute": 0,
+      "month": 4,
+      "timeZone": "Asia/Shanghai",
+      "year": 1954
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "庚辰",
+      "hour": "辛巳",
+      "month": "癸巳",
+      "year": "丙申"
+    },
+    "id": "ref-1956-0513-1030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 13,
+      "hour": 10,
+      "minute": 30,
+      "month": 5,
+      "timeZone": "Asia/Shanghai",
+      "year": 1956
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "甲子",
+      "hour": "辛未",
+      "month": "戊午",
+      "year": "戊戌"
+    },
+    "id": "ref-1958-0616-1315",
+    "input": {
+      "calendar": "gregorian",
+      "day": 16,
+      "hour": 13,
+      "minute": 15,
+      "month": 6,
+      "timeZone": "Asia/Shanghai",
+      "year": 1958
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "庚子",
+      "hour": "甲申",
+      "month": "癸未",
+      "year": "庚子"
+    },
+    "id": "ref-1960-0711-1645",
+    "input": {
+      "calendar": "gregorian",
+      "day": 11,
+      "hour": 16,
+      "minute": 45,
+      "month": 7,
+      "timeZone": "Asia/Shanghai",
+      "year": 1960
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "壬午",
+      "hour": "庚戌",
+      "month": "戊申",
+      "year": "壬寅"
+    },
+    "id": "ref-1962-0812-1920",
+    "input": {
+      "calendar": "gregorian",
+      "day": 12,
+      "hour": 19,
+      "minute": 20,
+      "month": 8,
+      "timeZone": "Asia/Shanghai",
+      "year": 1962
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丙寅",
+      "hour": "己亥",
+      "month": "癸酉",
+      "year": "甲辰"
+    },
+    "id": "ref-1964-0914-2150",
+    "input": {
+      "calendar": "gregorian",
+      "day": 14,
+      "hour": 21,
+      "minute": 50,
+      "month": 9,
+      "timeZone": "Asia/Shanghai",
+      "year": 1964
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丁未",
+      "hour": "庚子",
+      "month": "戊戌",
+      "year": "丙午"
+    },
+    "id": "ref-1966-1015-0030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 15,
+      "hour": 0,
+      "minute": 30,
+      "month": 10,
+      "timeZone": "Asia/Shanghai",
+      "year": 1966
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丁亥",
+      "hour": "戊申",
+      "month": "癸亥",
+      "year": "戊申"
+    },
+    "id": "ref-1968-1113-1500",
+    "input": {
+      "calendar": "gregorian",
+      "day": 13,
+      "hour": 15,
+      "minute": 0,
+      "month": 11,
+      "timeZone": "Asia/Shanghai",
+      "year": 1968
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "庚午",
+      "hour": "丁丑",
+      "month": "戊子",
+      "year": "庚戌"
+    },
+    "id": "ref-1970-1216-0100",
+    "input": {
+      "calendar": "gregorian",
+      "day": 16,
+      "hour": 1,
+      "minute": 0,
+      "month": 12,
+      "timeZone": "Asia/Shanghai",
+      "year": 1970
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "辛丑",
+      "hour": "辛卯",
+      "month": "辛丑",
+      "year": "辛亥"
+    },
+    "id": "ref-1972-0111-0530",
+    "input": {
+      "calendar": "gregorian",
+      "day": 11,
+      "hour": 5,
+      "minute": 30,
+      "month": 1,
+      "timeZone": "Asia/Shanghai",
+      "year": 1972
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "壬子",
+      "hour": "甲辰",
+      "month": "丁卯",
+      "year": "甲寅"
+    },
+    "id": "ref-1974-0312-0800",
+    "input": {
+      "calendar": "gregorian",
+      "day": 12,
+      "hour": 8,
+      "minute": 0,
+      "month": 3,
+      "timeZone": "Asia/Shanghai",
+      "year": 1974
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丙申",
+      "hour": "癸巳",
+      "month": "壬辰",
+      "year": "丙辰"
+    },
+    "id": "ref-1976-0414-1030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 14,
+      "hour": 10,
+      "minute": 30,
+      "month": 4,
+      "timeZone": "Asia/Shanghai",
+      "year": 1976
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丁丑",
+      "hour": "丁未",
+      "month": "丁巳",
+      "year": "戊午"
+    },
+    "id": "ref-1978-0515-1315",
+    "input": {
+      "calendar": "gregorian",
+      "day": 15,
+      "hour": 13,
+      "minute": 15,
+      "month": 5,
+      "timeZone": "Asia/Shanghai",
+      "year": 1978
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丁巳",
+      "hour": "戊申",
+      "month": "壬午",
+      "year": "庚申"
+    },
+    "id": "ref-1980-0613-1645",
+    "input": {
+      "calendar": "gregorian",
+      "day": 13,
+      "hour": 16,
+      "minute": 45,
+      "month": 6,
+      "timeZone": "Asia/Shanghai",
+      "year": 1980
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "庚子",
+      "hour": "丙戌",
+      "month": "丁未",
+      "year": "壬戌"
+    },
+    "id": "ref-1982-0716-1920",
+    "input": {
+      "calendar": "gregorian",
+      "day": 16,
+      "hour": 19,
+      "minute": 20,
+      "month": 7,
+      "timeZone": "Asia/Shanghai",
+      "year": 1982
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丁丑",
+      "hour": "辛亥",
+      "month": "壬申",
+      "year": "甲子"
+    },
+    "id": "ref-1984-0811-2150",
+    "input": {
+      "calendar": "gregorian",
+      "day": 11,
+      "hour": 21,
+      "minute": 50,
+      "month": 8,
+      "timeZone": "Asia/Shanghai",
+      "year": 1984
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "辛卯",
+      "hour": "戊子",
+      "month": "己酉",
+      "year": "壬申"
+    },
+    "id": "ref-1992-0912-0030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 12,
+      "hour": 0,
+      "minute": 30,
+      "month": 9,
+      "timeZone": "Asia/Shanghai",
+      "year": 1992
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "癸酉",
+      "hour": "庚申",
+      "month": "甲戌",
+      "year": "甲戌"
+    },
+    "id": "ref-1994-1014-1500",
+    "input": {
+      "calendar": "gregorian",
+      "day": 14,
+      "hour": 15,
+      "minute": 0,
+      "month": 10,
+      "timeZone": "Asia/Shanghai",
+      "year": 1994
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丙辰",
+      "hour": "己丑",
+      "month": "己亥",
+      "year": "丙子"
+    },
+    "id": "ref-1996-1115-0100",
+    "input": {
+      "calendar": "gregorian",
+      "day": 15,
+      "hour": 1,
+      "minute": 0,
+      "month": 11,
+      "timeZone": "Asia/Shanghai",
+      "year": 1996
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "甲午",
+      "hour": "丁卯",
+      "month": "甲子",
+      "year": "戊寅"
+    },
+    "id": "ref-1998-1213-0530",
+    "input": {
+      "calendar": "gregorian",
+      "day": 13,
+      "hour": 5,
+      "minute": 30,
+      "month": 12,
+      "timeZone": "Asia/Shanghai",
+      "year": 1998
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "癸酉",
+      "hour": "丙辰",
+      "month": "丁丑",
+      "year": "己卯"
+    },
+    "id": "ref-2000-0116-0800",
+    "input": {
+      "calendar": "gregorian",
+      "day": 16,
+      "hour": 8,
+      "minute": 0,
+      "month": 1,
+      "timeZone": "Asia/Shanghai",
+      "year": 2000
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "戊寅",
+      "hour": "丁巳",
+      "month": "癸卯",
+      "year": "壬午"
+    },
+    "id": "ref-2002-0311-1030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 11,
+      "hour": 10,
+      "minute": 30,
+      "month": 3,
+      "timeZone": "Asia/Shanghai",
+      "year": 2002
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "辛酉",
+      "hour": "乙未",
+      "month": "戊辰",
+      "year": "甲申"
+    },
+    "id": "ref-2004-0412-1315",
+    "input": {
+      "calendar": "gregorian",
+      "day": 12,
+      "hour": 13,
+      "minute": 15,
+      "month": 4,
+      "timeZone": "Asia/Shanghai",
+      "year": 2004
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "癸卯",
+      "hour": "庚申",
+      "month": "癸巳",
+      "year": "丙戌"
+    },
+    "id": "ref-2006-0514-1645",
+    "input": {
+      "calendar": "gregorian",
+      "day": 14,
+      "hour": 16,
+      "minute": 45,
+      "month": 5,
+      "timeZone": "Asia/Shanghai",
+      "year": 2006
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丙戌",
+      "hour": "戊戌",
+      "month": "戊午",
+      "year": "戊子"
+    },
+    "id": "ref-2008-0615-1920",
+    "input": {
+      "calendar": "gregorian",
+      "day": 15,
+      "hour": 19,
+      "minute": 20,
+      "month": 6,
+      "timeZone": "Asia/Shanghai",
+      "year": 2008
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "甲子",
+      "hour": "乙亥",
+      "month": "癸未",
+      "year": "庚寅"
+    },
+    "id": "ref-2010-0713-2150",
+    "input": {
+      "calendar": "gregorian",
+      "day": 13,
+      "hour": 21,
+      "minute": 50,
+      "month": 7,
+      "timeZone": "Asia/Shanghai",
+      "year": 2010
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "己酉",
+      "hour": "甲子",
+      "month": "戊申",
+      "year": "壬辰"
+    },
+    "id": "ref-2012-0816-0030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 16,
+      "hour": 0,
+      "minute": 30,
+      "month": 8,
+      "timeZone": "Asia/Shanghai",
+      "year": 2012
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "乙酉",
+      "hour": "甲申",
+      "month": "癸酉",
+      "year": "甲午"
+    },
+    "id": "ref-2014-0911-1500",
+    "input": {
+      "calendar": "gregorian",
+      "day": 11,
+      "hour": 15,
+      "minute": 0,
+      "month": 9,
+      "timeZone": "Asia/Shanghai",
+      "year": 2014
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丁卯",
+      "hour": "辛丑",
+      "month": "戊戌",
+      "year": "丙申"
+    },
+    "id": "ref-2016-1012-0100",
+    "input": {
+      "calendar": "gregorian",
+      "day": 12,
+      "hour": 1,
+      "minute": 0,
+      "month": 10,
+      "timeZone": "Asia/Shanghai",
+      "year": 2016
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "庚戌",
+      "hour": "己卯",
+      "month": "癸亥",
+      "year": "戊戌"
+    },
+    "id": "ref-2018-1114-0530",
+    "input": {
+      "calendar": "gregorian",
+      "day": 14,
+      "hour": 5,
+      "minute": 30,
+      "month": 11,
+      "timeZone": "Asia/Shanghai",
+      "year": 2018
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "壬辰",
+      "hour": "甲辰",
+      "month": "戊子",
+      "year": "庚子"
+    },
+    "id": "ref-2020-1215-0800",
+    "input": {
+      "calendar": "gregorian",
+      "day": 15,
+      "hour": 8,
+      "minute": 0,
+      "month": 12,
+      "timeZone": "Asia/Shanghai",
+      "year": 2020
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丙寅",
+      "hour": "癸巳",
+      "month": "辛丑",
+      "year": "辛丑"
+    },
+    "id": "ref-2022-0113-1030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 13,
+      "hour": 10,
+      "minute": 30,
+      "month": 1,
+      "timeZone": "Asia/Shanghai",
+      "year": 2022
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "己卯",
+      "hour": "辛未",
+      "month": "丁卯",
+      "year": "甲辰"
+    },
+    "id": "ref-2024-0316-1315",
+    "input": {
+      "calendar": "gregorian",
+      "day": 16,
+      "hour": 13,
+      "minute": 15,
+      "month": 3,
+      "timeZone": "Asia/Shanghai",
+      "year": 2024
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丁亥",
+      "hour": "甲辰",
+      "month": "戊寅",
+      "year": "庚子"
+    },
+    "id": "leap-1960-0229-0800",
+    "input": {
+      "calendar": "gregorian",
+      "day": 29,
+      "hour": 8,
+      "minute": 0,
+      "month": 2,
+      "timeZone": "Asia/Shanghai",
+      "year": 1960
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "庚寅",
+      "hour": "癸未",
+      "month": "壬寅",
+      "year": "壬子"
+    },
+    "id": "leap-1972-0229-1430",
+    "input": {
+      "calendar": "gregorian",
+      "day": 29,
+      "hour": 14,
+      "minute": 30,
+      "month": 2,
+      "timeZone": "Asia/Shanghai",
+      "year": 1972
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "癸巳",
+      "hour": "丁巳",
+      "month": "丙寅",
+      "year": "甲子"
+    },
+    "id": "leap-1984-0229-1000",
+    "input": {
+      "calendar": "gregorian",
+      "day": 29,
+      "hour": 10,
+      "minute": 0,
+      "month": 2,
+      "timeZone": "Asia/Shanghai",
+      "year": 1984
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丁巳",
+      "hour": "癸卯",
+      "month": "戊寅",
+      "year": "庚辰"
+    },
+    "id": "leap-2000-0229-0600",
+    "input": {
+      "calendar": "gregorian",
+      "day": 29,
+      "hour": 6,
+      "minute": 0,
+      "month": 2,
+      "timeZone": "Asia/Shanghai",
+      "year": 2000
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "辛巳",
+      "hour": "丙申",
+      "month": "庚寅",
+      "year": "丙申"
+    },
+    "id": "leap-2016-0229-1630",
+    "input": {
+      "calendar": "gregorian",
+      "day": 29,
+      "hour": 16,
+      "minute": 30,
+      "month": 2,
+      "timeZone": "Asia/Shanghai",
+      "year": 2016
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "壬辰",
+      "hour": "庚子",
+      "month": "丁巳",
+      "year": "戊戌"
+    },
+    "id": "earlyzi-1958-0515-0030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 15,
+      "hour": 0,
+      "minute": 30,
+      "month": 5,
+      "timeZone": "Asia/Shanghai",
+      "year": 1958
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "壬午",
+      "hour": "庚子",
+      "month": "癸酉",
+      "year": "己未"
+    },
+    "id": "earlyzi-1979-0912-0030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 12,
+      "hour": 0,
+      "minute": 30,
+      "month": 9,
+      "timeZone": "Asia/Shanghai",
+      "year": 1979
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丙子",
+      "hour": "戊子",
+      "month": "壬午",
+      "year": "乙亥"
+    },
+    "id": "earlyzi-1995-0614-0030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 14,
+      "hour": 0,
+      "minute": 30,
+      "month": 6,
+      "timeZone": "Asia/Shanghai",
+      "year": 1995
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "丁巳",
+      "hour": "庚子",
+      "month": "癸亥",
+      "year": "戊子"
+    },
+    "id": "earlyzi-2008-1113-0030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 13,
+      "hour": 0,
+      "minute": 30,
+      "month": 11,
+      "timeZone": "Asia/Shanghai",
+      "year": 2008
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  },
+  {
+    "confidence": "providerVerified",
+    "expected": {
+      "day": "癸亥",
+      "hour": "壬子",
+      "month": "辛卯",
+      "year": "辛丑"
+    },
+    "id": "earlyzi-2021-0316-0030",
+    "input": {
+      "calendar": "gregorian",
+      "day": 16,
+      "hour": 0,
+      "minute": 30,
+      "month": 3,
+      "timeZone": "Asia/Shanghai",
+      "year": 2021
+    },
+    "notes": [
+      "Reference chart spanning decades, leap days, and the 子-hour boundary."
+    ],
+    "sources": [
+      "bazicore"
+    ]
+  }
+]

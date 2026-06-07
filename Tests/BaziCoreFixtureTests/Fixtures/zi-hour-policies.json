@@ -1,0 +1,193 @@
+[
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "庚戌",
+      "hour" : "丁亥",
+      "month" : "庚午",
+      "year" : "甲辰"
+    },
+    "id" : "zi-2259-hai-hour",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 15,
+      "hour" : 22,
+      "minute" : 59,
+      "month" : 6,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2024
+    },
+    "notes" : [
+      "22:59 is the 亥 hour, before the late-Zi window"
+    ],
+    "sources" : [
+      "bazicore",
+      "bazi-rule"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "辛亥",
+      "hour" : "戊子",
+      "month" : "庚午",
+      "year" : "甲辰"
+    },
+    "id" : "zi-2300-late-next-day",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 15,
+      "hour" : 23,
+      "minute" : 0,
+      "month" : 6,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2024
+    },
+    "notes" : [
+      "late 子时 rolls the day pillar to the next day"
+    ],
+    "ruleSet" : {
+      "ziHourPolicy" : "lateZiNextDay"
+    },
+    "sources" : [
+      "bazicore",
+      "bazi-rule"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "辛亥",
+      "hour" : "戊子",
+      "month" : "庚午",
+      "year" : "甲辰"
+    },
+    "id" : "zi-2359-late-next-day",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 15,
+      "hour" : 23,
+      "minute" : 59,
+      "month" : 6,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2024
+    },
+    "notes" : [
+
+    ],
+    "ruleSet" : {
+      "ziHourPolicy" : "lateZiNextDay"
+    },
+    "sources" : [
+      "bazicore",
+      "bazi-rule"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "庚戌",
+      "hour" : "丙子",
+      "month" : "庚午",
+      "year" : "甲辰"
+    },
+    "id" : "zi-2300-late-same-day",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 15,
+      "hour" : 23,
+      "minute" : 0,
+      "month" : 6,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2024
+    },
+    "notes" : [
+      "late 子时 keeps the current day pillar"
+    ],
+    "ruleSet" : {
+      "ziHourPolicy" : "lateZiSameDay"
+    },
+    "sources" : [
+      "bazicore",
+      "bazi-rule"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "庚戌",
+      "hour" : "丙子",
+      "month" : "庚午",
+      "year" : "甲辰"
+    },
+    "id" : "zi-0000-early",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 15,
+      "hour" : 0,
+      "minute" : 0,
+      "month" : 6,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2024
+    },
+    "notes" : [
+      "early 子时 stays on the calendar day"
+    ],
+    "sources" : [
+      "bazicore",
+      "bazi-rule"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "庚戌",
+      "hour" : "丙子",
+      "month" : "庚午",
+      "year" : "甲辰"
+    },
+    "id" : "zi-0059-early",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 15,
+      "hour" : 0,
+      "minute" : 59,
+      "month" : 6,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2024
+    },
+    "notes" : [
+
+    ],
+    "sources" : [
+      "bazicore",
+      "bazi-rule"
+    ]
+  },
+  {
+    "confidence" : "canonical",
+    "expected" : {
+      "day" : "庚戌",
+      "hour" : "丁丑",
+      "month" : "庚午",
+      "year" : "甲辰"
+    },
+    "id" : "zi-0100-chou",
+    "input" : {
+      "calendar" : "gregorian",
+      "day" : 15,
+      "hour" : 1,
+      "minute" : 0,
+      "month" : 6,
+      "timeZone" : "Asia/Shanghai",
+      "year" : 2024
+    },
+    "notes" : [
+      "01:00 is the 丑 hour"
+    ],
+    "sources" : [
+      "bazicore",
+      "bazi-rule"
+    ]
+  }
+]
