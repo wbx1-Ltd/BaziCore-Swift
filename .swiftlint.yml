@@ -1,0 +1,36 @@
+included:
+  - Package.swift
+  - Sources
+  - Tests
+
+excluded:
+  - .build
+  - .git
+  - .github
+  - .swiftpm
+  - local
+
+disabled_rules:
+  - cyclomatic_complexity
+  - file_length
+  - function_body_length
+  - function_parameter_count
+  - identifier_name
+  - large_tuple
+  - line_length
+  - non_optional_string_data_conversion
+  - opening_brace
+  - superfluous_disable_command
+  - todo
+  - trailing_comma
+  - type_body_length
+
+nesting:
+  type_level: 2
+
+# "Day Master" (日主 / 日元) is the established English term of art for the day
+# pillar's stem in BaZi literature; it is a domain term, not master/slave usage.
+# blacklist / whitelist / slave remain flagged.
+inclusive_language:
+  override_allowed_terms:
+    - master

@@ -1,0 +1,27 @@
+# SwiftPM and Xcode build outputs
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj
+xcuserdata/
+
+# Resolved dependency graph: this is a library, and the dependencies are
+# currently public package references, so the lock file is not meaningful to share.
+Package.resolved
+
+# Editor and local environment state
+.DS_Store
+.vscode/
+.idea/
+.claude/
+*.swp
+*.xcuserstate
+
+# Local-only planning, fixtures, scratch data, and agent instructions
+local/
+
+# Generated reports and coverage
+coverage/
+*.profdata
+*.profraw
+*.xcresult
