@@ -43,10 +43,6 @@ Explicit rules, traceable boundaries, golden-fixture validation, and layered pro
 
 ## ✨ Features
 
-> \[!NOTE\]
->
-> **Pre-1.0** — the computation layers are complete and cross-validated against independent references, but BaziCore has not had its first tagged release yet, so public APIs may still change. Track progress in [🗺️ Roadmap](#️-roadmap).
-
 | | Capability | Description |
 |-|------------|-------------|
 | 🎯 | **Four Pillars** | Year / month / day / hour pillars with configurable boundary rules |
@@ -126,15 +122,7 @@ BaziCore                         rules · inputs · pillar models · chart engin
 
 ### Swift Package Manager
 
-While the package is pre-release, depend on the `main` branch:
-
-```swift
-dependencies: [
-    .package(url: "https://github.com/wbx1-Ltd/BaziCore-Swift.git", branch: "main"),
-]
-```
-
-Once `1.0.0` is tagged, switch to a version requirement:
+Add the dependency:
 
 ```swift
 dependencies: [
@@ -285,8 +273,7 @@ Solar-term instants are computed to the second. The bounded term cache is thread
 
 ## 🗺️ Roadmap
 
-The computation layers are complete and cross-validated; the remaining work is
-release hardening toward the first tag.
+The computation layers are complete, cross-validated, and shipped in `1.0.0`.
 
 - [x] Package layout, six-module split, and CI (format / lint / test)
 - [x] Birth inputs and configurable rule sets
@@ -295,7 +282,7 @@ release hardening toward the first tag.
 - [x] Calendar and astronomy adapters (`LunarCore` / `AstroCore`)
 - [x] Luck-cycle calculations (`BaziCoreLuck`)
 - [x] Golden fixtures and cross-validation suite (`BaziCoreTesting`)
-- [ ] First tagged release (`1.0.0`)
+- [x] First tagged release (`1.0.0`)
 
 <div align="right">
 

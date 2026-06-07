@@ -43,10 +43,6 @@
 
 ## ✨ 特性
 
-> \[!NOTE\]
->
-> **1.0 之前** — 计算层已完整实现，并与多个独立来源交叉验证；但尚未发布首个正式 tag，公开 API 仍可能变动。进度见 [🗺️ 路线图](#️-路线图)。
-
 | | 能力 | 说明 |
 |-|------|------|
 | 🎯 | **四柱排盘** | 年/月/日/时四柱，边界规则可配置 |
@@ -125,15 +121,7 @@ BaziCore                         规则 · 输入 · 柱模型 · 排盘核心
 
 ### Swift Package Manager
 
-正式发版前，依赖 `main` 分支：
-
-```swift
-dependencies: [
-    .package(url: "https://github.com/wbx1-Ltd/BaziCore-Swift.git", branch: "main"),
-]
-```
-
-`1.0.0` 打 tag 后，改用版本约束：
+添加依赖：
 
 ```swift
 dependencies: [
@@ -282,7 +270,7 @@ let chart = try calculator.chart(for: BirthInput(
 
 ## 🗺️ 路线图
 
-计算层已完整实现并完成交叉验证，剩余工作是面向首个正式 tag 的发版打磨。
+计算层已完整实现、完成交叉验证，并随 `1.0.0` 发布。
 
 - [x] 包结构、六模块拆分、CI（format / lint / test）
 - [x] 出生输入与可配置规则集
@@ -291,7 +279,7 @@ let chart = try calculator.chart(for: BirthInput(
 - [x] 历法与天文适配器（`LunarCore` / `AstroCore`）
 - [x] 运限计算（`BaziCoreLuck`）
 - [x] 金标夹具与交叉验证套件（`BaziCoreTesting`）
-- [ ] 首个正式发版（`1.0.0`）
+- [x] 首个正式发版（`1.0.0`）
 
 <div align="right">
 
